@@ -1,0 +1,2 @@
+./rawiPNG -atob -rawi input.rawi -png output.png
+./rawiPNG -btoa -rawi output.rawi -png input.png
